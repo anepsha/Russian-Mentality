@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RussianMentality", "RussianMentality\RussianMentality\RussianMentality.csproj", "{AD736873-0FD9-4788-BCDD-85C1DF9DA3E9}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "RussianMentalityContent", "RussianMentality\RussianMentalityContent\RussianMentalityContent.contentproj", "{FD90D6AD-1A50-4915-AF3D-FEBDC6F012EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD736873-0FD9-4788-BCDD-85C1DF9DA3E9}.Debug|x86.ActiveCfg = Debug|x86
+		{AD736873-0FD9-4788-BCDD-85C1DF9DA3E9}.Debug|x86.Build.0 = Debug|x86
+		{AD736873-0FD9-4788-BCDD-85C1DF9DA3E9}.Release|x86.ActiveCfg = Release|x86
+		{AD736873-0FD9-4788-BCDD-85C1DF9DA3E9}.Release|x86.Build.0 = Release|x86
+		{FD90D6AD-1A50-4915-AF3D-FEBDC6F012EE}.Debug|x86.ActiveCfg = Debug|x86
+		{FD90D6AD-1A50-4915-AF3D-FEBDC6F012EE}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
