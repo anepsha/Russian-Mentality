@@ -1,5 +1,5 @@
 # Russian Mentality
-**Russian Mentality** is an endless runner racing video game loosely related to stereotyped road traffic in Russia. The gameplay is pretty uncomplicated: the player is driving a Mercedes-Benz G-Class and his task to literally jump across the traffic with Space bar. If the player collides with another car, the game ends with a time score which is saved to the score table.
+**Russian Mentality** is an endless runner racing video game loosely based on stereotyped road traffic in Russia. The gameplay is fairly simple: the player is driving a Mercedes-Benz G-Class (Gelandewagen) and his objective is literally to jump across the traffic using Space bar. In case the player crashes into another car, the game ends with a time score which is saved to the scores table.
 
 Built using
 ---
@@ -11,10 +11,10 @@ Installation
 ---
 To run the project, you would require MS Visual Studio and XNA Game Studio 4.0.
  1. Get the project on your computer
- 2. Open RussianMentality.sln
+ 2. Open `RussianMentality.sln`
  3. From the Standard toolbar, click the green "Start" button or hit F5.
 
-<p>If you would like to just run the game, go to <i>RussianMentality\RussianMentality\RussianMentality\bin\x86\Debug</i> and open <i>RussianMentality.exe</i> from there.</p>
+If you would like to just run the game, go to `RussianMentality\RussianMentality\RussianMentality\bin\x86\Debug` and open `RussianMentality.exe` from there.
 <img src="http://i.imgur.com/cQ3R14V.png" >
 
 Screenshots
