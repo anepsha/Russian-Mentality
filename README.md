@@ -14,7 +14,7 @@ To run the project, you would require MS Visual Studio and XNA Game Studio 4.0.
  2. Open `RussianMentality.sln`
  3. From the Standard toolbar, click the green "Start" button or hit F5.
 
-If you would like to just run the game, go to `RussianMentality\RussianMentality\RussianMentality\bin\x86\Debug` and open `RussianMentality.exe` from there.
+If you would like to just run the game, go to `RussianMentality\RussianMentality\RussianMentality\bin\x86\Debug` and open `RussianMentality.exe` from there.<br>
 <img src="http://i.imgur.com/cQ3R14V.png" >
 
 Screenshots
