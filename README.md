@@ -1,5 +1,5 @@
 # Russian Mentality
-**Russian Mentality** is an endless runner racing video game loosely based on stereotyped road traffic in Russia. The gameplay is fairly simple: the player is driving a Mercedes-Benz G-Class (Gelandewagen) and his objective is literally to jump across the traffic using Space bar. In case the player crashes into another car, the game ends with a time score which is saved to the scores table.
+**Russian Mentality** is an endless runner racing video game loosely based on stereotypical road traffic in Russia. The gameplay is fairly simple: the player is driving a Mercedes-Benz G-Class (Gelandewagen) and his objective is literally to jump across the traffic using the space bar. In case the player crashes into another car, the game ends with a time score which is saved onto the scores table.
 
 Built using
 ---
